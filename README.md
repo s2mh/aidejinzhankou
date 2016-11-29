@@ -1,1 +1,2 @@
-launch server.js
+run server.js
+
